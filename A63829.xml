@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Psalm the XX. Verse. The Lord hear thee in the day of trouble, the name of the God of Jacob defend thee</title>
+            <author>Tudway, Thomas, 1655 or 6-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63829</idno>
+            <idno type="STC">Wing T3221</idno>
+            <idno type="STC">ESTC R222421</idno>
+            <idno type="EEBO-CITATION">99833599</idno>
+            <idno type="PROQUEST">99833599</idno>
+            <idno type="VID">38077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2067:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Psalm the XX. Verse. The Lord hear thee in the day of trouble, the name of the God of Jacob defend thee</title>
+                  <author>Tudway, Thomas, 1655 or 6-1726.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At bottom of page: Jul.5.1681. In die comit. T. Tunway, pro gradu music. Bacalaur. Coll. Regal.</note>
+                  <note>Title is from text. Text is in two columns on each page.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="20" type="Psalm">
+            <pb facs="tcp:38077:1"/>
+            <head>PSALM the XX.</head>
+            <div type="verse">
+               <head>Verſe.</head>
+               <p>
+                  <hi>THe Lord hear thee in the day of trouble, The Name of the God of Jacob defend thee.</hi>
+               </p>
+               <p>
+                  <hi>Send thee help from the Sanctuary, and ſtrengthen thee out of Sion.</hi>
+               </p>
+               <p>
+                  <hi>Remember all thy offerings, and accept thy burnt<g ref="char:EOLhyphen"/>ſacrifice.</hi>
+               </p>
+               <p>
+                  <hi>Grant thee thy hearts deſire, and fulfill all thy mind.</hi>
+               </p>
+               <p>
+                  <hi>We will rejoice in thy ſalvation, and triumph in the Name of the Lord our God, the Lord perform all thy petitions.</hi>
+               </p>
+            </div>
+            <div type="chorus">
+               <head>Chorus.</head>
+               <p>
+                  <hi>We will rejoice,</hi> &amp;c.</p>
+            </div>
+            <div type="verse">
+               <head>Verſe.</head>
+               <p>
+                  <hi>Now know I that the Lord helpeth his Anointed, and will hear him from his holy Heav'n, ev'n with the wholeſom ſtrength of his right hand.</hi>
+               </p>
+               <p>
+                  <hi>Some put their truſt in Chariots, and ſome in Horſes, But we will remember the Name of the Lord our God.</hi>
+               </p>
+               <p>
+                  <hi>They are brought down and fall'n, But we are riſen and ſtand upright.</hi>
+               </p>
+               <p>
+                  <hi>Save Lord, and hear us, O King of Heav'n when we call upon thee.</hi>
+               </p>
+            </div>
+            <div type="chorus">
+               <head>Chorus.</head>
+               <p>
+                  <hi>Save Lord, and hear us, O King,</hi> &amp;c.</p>
+            </div>
+         </div>
+         <div n="2" xml:lang="lat" type="Psalm">
+            <head>PSALM<g ref="char:V">Ʋ</g>S II.</head>
+            <div type="verse">
+               <head>Verſus.</head>
+               <p>QUare fremuerunt Gentes, &amp; populi meditati ſunt inania;</p>
+               <p>Aſtiterunt Reges terrae, &amp; principes convene<g ref="char:EOLhyphen"/>runt in unum, adverſus Dominum, &amp; adverſus Chriſtum ejus.</p>
+               <p>Dirumpamus vincula eorum, &amp; projiciamus à nobis Jugum ipſorum.</p>
+               <p>Qui habitat in Coelis irridebit eos, &amp; Dominus ſubſannabit eos.</p>
+               <p>Tunc loquetur ad eos in ira ſua, &amp; in furore ſuo Conturbabit eos.</p>
+               <p>Ego autem Conſtitutus ſum Rex ab eo ſuper Sion montem ſanctum ejus.</p>
+            </div>
+            <div type="chorus">
+               <head>Chorus.</head>
+               <p>Ego autem, &amp;c.</p>
+            </div>
+            <div type="verse">
+               <head>Verſus.</head>
+               <p>Poſtula à me, &amp; dabo tibi Gentes haereditatem tuam, &amp; poſſeſſionem tuam Terminos terrae.</p>
+               <p>Reges eos in virga ferrea, &amp; tanquam vas fi<g ref="char:EOLhyphen"/>guli confringes eos.</p>
+               <p>Servite Domino in timore, &amp; exultate ei cum tremore.</p>
+            </div>
+            <div type="chorus">
+               <head>Chorus.</head>
+               <p>Servite Domino in Timore, &amp; exultate ei cum tremore.</p>
+               <p>Cum exarſerit in brevi ira ejus, Beati omnes qui Confidunt in eo.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>Jul. 5. 1681. In die Comit.</date>
+               </dateline> 
+               <hi>T. Tudway,</hi> pro gradu Muſic. Bacalaur. <hi>Coll. Regal.</hi>
+            </closer>
+         </div>
+         <div n="20" xml:lang="lat" type="Psalm">
+            <pb facs="tcp:38077:2"/>
+            <head>PSALM<g ref="char:V">Ʋ</g>S XX.</head>
+            <lg>
+               <l>IMpia ſeu vanae meditantur praelia gentes,</l>
+               <l>Seu coeca imbelles fraus ſtruit inſidias;</l>
+               <l>Seu quocunque malo, curâ quâcunque laboras,</l>
+               <l>Audiat ô! facilis teque tuoſque Deus,</l>
+               <l>Audiat, auxiliumque ſuis demittat ab aſtris,</l>
+               <l>Quod fractos hoſtes conterat auxilium:</l>
+               <l>Uſque memor quoties caluêre altaria flammis,</l>
+               <l>Aram agnus quoties imbuit uſque memor:</l>
+               <l>Et ſi quid meditans tacito ſub pectore volvis,</l>
+               <l>Sit praeſens votis ſit Deus ipſe tuis.</l>
+               <l>Tu modo ſis foelix, modo tu ſis ſalvus, ubique</l>
+               <l>Ducemus laetos nos pia turba choros:</l>
+               <l>Ducemus laetas contempta in praelia turmas,</l>
+               <l>Auſcultat precibus ſi bonus ille tuis,</l>
+               <l>Jam ſcio, jam bonus auſcultat, coelumque reclinans,</l>
+               <l>Jam facili notas excipit aure preces,</l>
+               <l>Jamque ſalutiferae ſervat te robore dextrae,</l>
+               <l>Dextrae, quâ horrendùm fulmina rauca tonant.</l>
+               <l>Hic vana ex multo concepit gaudia curru</l>
+               <l>Atque acri ah demens! ille ſuperbit equo</l>
+               <l>Hic tamen excutitur praeceps, tamen occidit ille,</l>
+               <l>Nec quid jam currus, nec queat acer equus.</l>
+               <l>Nos ſumus uſque tuo confiſi in nomine, nobis</l>
+               <l>Illud erat gladius, murus &amp; illud erat;</l>
+               <l>Sic ô ſic trepidos infeſti vertimus hoſtes,</l>
+               <l>Sic pugnat Jacob, ſic metuendus erit.</l>
+            </lg>
+            <div type="part">
+               <head>—Trahitur dulcedine Cantûs.</head>
+               <lg>
+                  <l>QUis ſonus arrectas permulcet Nobilis aures?</l>
+                  <l>Objectumque oculos quod tenet Attonitos?</l>
+                  <l>Doctane foemineo capta eſt urbs agmine? Mollis</l>
+                  <l>Sitque artes inter matriculatus amor?</l>
+                  <l>Annè unâ peperit mater tot nocte puellas,</l>
+                  <l>Progenuit natos quot labor Herculeus?</l>
+                  <l>An quia Doctorum partus, cerebri, ut Jovis, eſſent?</l>
+                  <l>Divinam genuit Pallada quiſque ſuam?</l>
+                  <l>Quicquid ſit: nobis nova, foelix, grata propago eſt:</l>
+                  <l>Hicque adſint Pallas, Muſa Camoena, Venus.</l>
+                  <l>Nam benè conveniunt haec jam tria Numina: dulce</l>
+                  <l>Nam Numen quodque hoc, Muſica quaeque dea eſt:</l>
+                  <l>Quàm doctrina, ſonat meliùs quae Muſica? Pulchrae</l>
+                  <l>Harmonico Veneris dulcius ore nihil:</l>
+                  <l>Et ſi ponantur jam haec inter Numina lites,</l>
+                  <l>Quaenam harum cunctis ſuavior eſſe poteſt:</l>
+                  <l>Non opus eſt Paride, at judex Academicus eſto;</l>
+                  <l>Atque iterùm dentur poma Deae Veneri:</l>
+                  <l>Plangite dulciſoni ſacra hic modulamina plectri,</l>
+                  <l>Sirque Chorus Muſa, &amp; doctor, &amp; ipſa Venus.</l>
+               </lg>
+            </div>
+            <closer>
+               <dateline>
+                  <date>Jul. 5. 1681.</date>
+               </dateline> In die Comit. <hi>T. Tudway,</hi> pro gradu Muſic. Baccalaur. <hi>Coll. Regal.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
